@@ -26,5 +26,7 @@ public status void main (string[] args)
 Scanner input = new Scanner(System.in);
 stringGreetingMessage;
 
+System.out.println("Welcome Stacey! How are you? ");
+
 
   
