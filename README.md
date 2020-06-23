@@ -28,5 +28,14 @@ stringGreetingMessage;
 
 System.out.println("Welcome Stacey! How are you? ");
 
+public class VarTry
+
+  {
+  int i; //declares integer variable named i
+  i = 9; //gives i the value of 9
+  System.out.println(i); //prints the value of i to the screen 
+  
+  
+
 
   
